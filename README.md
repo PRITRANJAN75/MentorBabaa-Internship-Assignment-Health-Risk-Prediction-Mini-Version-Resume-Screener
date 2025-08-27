@@ -1,1 +1,1 @@
-# -MentorBabaa-Internship-Assignment-Smart-Resume-Screener
+# -MentorBabaa-Internship-Assignment-Health Risk Prediction (Mini Version)
